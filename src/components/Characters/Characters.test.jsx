@@ -1,22 +1,23 @@
-import { screen, render } from '@testing-library/react'
+import { render } from '@testing-library/react'
 import Characters from './Characters'
-import { Link } from 'react-router-dom'
 import { MemoryRouter } from 'react-router-dom'
 
 describe('characters component test', () => {
     it('should render character component', () =>{
 
         const mockCharacters = [
-            <Link to={
+
             {
-            name: 'Summer Smith',
-            image: 'www.example.com'
-        }} />,
-            <Link to={
+                id: '1',
+                name: 'Summer Smith',
+                image: 'www.example.com'
+        },
+
             {
+                id: '2',
                 name: 'Alan Rails',
                 image: 'www.example.com'
-            }} />
+            }
         ]
 
 

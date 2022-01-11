@@ -13,15 +13,19 @@ Object {
           class="item"
         >
           <a
-            href="/characters/undefined"
+            href="/characters/1"
           >
             <figure>
               <img
+                alt="Summer Smith"
                 class="image"
+                src="www.example.com"
               />
               <figcaption
                 class="linkText"
-              />
+              >
+                Summer Smith
+              </figcaption>
             </figure>
           </a>
         </li>
@@ -29,15 +33,19 @@ Object {
           class="item"
         >
           <a
-            href="/characters/undefined"
+            href="/characters/2"
           >
             <figure>
               <img
+                alt="Alan Rails"
                 class="image"
+                src="www.example.com"
               />
               <figcaption
                 class="linkText"
-              />
+              >
+                Alan Rails
+              </figcaption>
             </figure>
           </a>
         </li>
@@ -54,15 +62,19 @@ Object {
         class="item"
       >
         <a
-          href="/characters/undefined"
+          href="/characters/1"
         >
           <figure>
             <img
+              alt="Summer Smith"
               class="image"
+              src="www.example.com"
             />
             <figcaption
               class="linkText"
-            />
+            >
+              Summer Smith
+            </figcaption>
           </figure>
         </a>
       </li>
@@ -70,15 +82,19 @@ Object {
         class="item"
       >
         <a
-          href="/characters/undefined"
+          href="/characters/2"
         >
           <figure>
             <img
+              alt="Alan Rails"
               class="image"
+              src="www.example.com"
             />
             <figcaption
               class="linkText"
-            />
+            >
+              Alan Rails
+            </figcaption>
           </figure>
         </a>
       </li>
